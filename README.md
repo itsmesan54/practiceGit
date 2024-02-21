@@ -15,7 +15,3 @@ function a() {
 function c() {
 
 }
-
-function d() {
-
-}
