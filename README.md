@@ -10,3 +10,7 @@ fuction b() {
 function a() {
     
 }
+
+function c() {
+    
+}
