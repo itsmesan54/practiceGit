@@ -6,7 +6,3 @@
 fuction b() {
 
 }
-
-function a() {
-    
-}
