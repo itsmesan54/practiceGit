@@ -6,3 +6,7 @@
 fuction b() {
 
 }
+
+function a() {
+    
+}
